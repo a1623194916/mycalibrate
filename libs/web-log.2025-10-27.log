@@ -1,0 +1,414 @@
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 09:10:56 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99990148  0.01145832  0.00810824]
+ [-0.01161145  0.99975021  0.01909711]
+ [-0.00788739 -0.01918938  0.99978476]]
+2025-10-27 09:10:56 - __main__ - INFO: 平移向量是:
+ [[-0.01881135]
+ [-0.03537038]
+ [ 0.13551063]]
+2025-10-27 09:10:56 - __main__ - INFO: 四元数是：
+ [-0.0095723   0.00399919 -0.00576785  0.99992955]
+2025-10-27 09:11:34 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:11:35 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 09:12:47 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:12:47 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 09:12:48 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99990148  0.01145832  0.00810824]
+ [-0.01161145  0.99975021  0.01909711]
+ [-0.00788739 -0.01918938  0.99978476]]
+2025-10-27 09:12:48 - __main__ - INFO: 平移向量是:
+ [[-0.01881135]
+ [-0.03537038]
+ [ 0.13551063]]
+2025-10-27 09:12:48 - __main__ - INFO: 四元数是：
+ [-0.0095723   0.00399919 -0.00576785  0.99992955]
+2025-10-27 09:13:23 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:13:23 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:13:23 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:13:23 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:13:23 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 09:13:24 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99990148  0.01145832  0.00810824]
+ [-0.01161145  0.99975021  0.01909711]
+ [-0.00788739 -0.01918938  0.99978476]]
+2025-10-27 09:13:24 - __main__ - INFO: 平移向量是:
+ [[-0.01881135]
+ [-0.03537038]
+ [ 0.13551063]]
+2025-10-27 09:13:24 - __main__ - INFO: 四元数是：
+ [-0.0095723   0.00399919 -0.00576785  0.99992955]
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:13:53 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 09:59:03 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 09:59:03 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 09:59:03 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 09:59:03 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 09:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 10:40:07 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 10:40:08 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99990148  0.01145832  0.00810824]
+ [-0.01161145  0.99975021  0.01909711]
+ [-0.00788739 -0.01918938  0.99978476]]
+2025-10-27 10:40:08 - __main__ - INFO: 平移向量是:
+ [[-0.01881135]
+ [-0.03537038]
+ [ 0.13551063]]
+2025-10-27 10:40:08 - __main__ - INFO: 四元数是：
+ [-0.0095723   0.00399919 -0.00576785  0.99992955]
+2025-10-27 11:51:21 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\eye_hand_data
+2025-10-27 11:51:21 - __main__ - INFO: 检测到 10 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 11:51:21 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg 角点检测成功
+2025-10-27 11:51:21 - __main__ - INFO: 共有 10 张图像用于求解
+2025-10-27 11:51:22 - __main__ - INFO: 相机标定完成，均方重投影误差 0.176401
+2025-10-27 11:51:22 - __main__ - DEBUG: 相机内参:
+[[611.54837496   0.         638.39507514]
+ [  0.         611.70684878 394.14289874]
+ [  0.           0.           1.        ]]
+2025-10-27 11:51:22 - __main__ - DEBUG: 畸变系数:
+[[-0.00361027 -0.21202781  0.00195347 -0.00075473  0.7896488 ]]
+2025-10-27 11:51:22 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 11:51:22 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 40)
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 1 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 2 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 3 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 4 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 5 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 6 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 7 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 8 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 9 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - DEBUG: 第 10 帧末端旋转矩阵行列式 1.000000
+2025-10-27 11:51:22 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 11:51:22 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99990148  0.01145832  0.00810824]
+ [-0.01161145  0.99975021  0.01909711]
+ [-0.00788739 -0.01918938  0.99978476]]
+2025-10-27 11:51:22 - __main__ - INFO: 平移向量是:
+ [[-0.01881135]
+ [-0.03537038]
+ [ 0.13551063]]
+2025-10-27 11:51:22 - __main__ - INFO: 四元数是：
+ [-0.0095723   0.00399919 -0.00576785  0.99992955]
+2025-10-27 16:23:55 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\eye_hand_data
+2025-10-27 16:23:55 - compute_in_hand - INFO: 检测到 10 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 16:23:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 16:23:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg 角点检测成功
+2025-10-27 16:23:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 16:23:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg 角点检测成功
+2025-10-27 16:23:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 16:23:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg 角点检测成功
+2025-10-27 16:23:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg 角点检测成功
+2025-10-27 16:23:56 - compute_in_hand - INFO: 共有 10 张图像用于求解
+2025-10-27 16:23:56 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.176401
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 相机内参:
+[[611.54837496   0.         638.39507514]
+ [  0.         611.70684878 394.14289874]
+ [  0.           0.           1.        ]]
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.00361027 -0.21202781  0.00195347 -0.00075473  0.7896488 ]]
+2025-10-27 16:23:56 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 40)
+2025-10-27 16:23:56 - compute_in_hand - DEBUG: 第 10 帧末端旋转矩阵行列式 1.000000
+2025-10-27 16:23:56 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 18:45:27 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:45:27 - __main__ - INFO: 检测到 0 张候选图像，按修改时间顺序处理
+2025-10-27 18:45:27 - __main__ - INFO: 共有 0 张图像用于求解
+2025-10-27 18:46:12 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:46:12 - __main__ - INFO: 检测到 0 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:46:12 - __main__ - INFO: 共有 0 张图像用于求解
+2025-10-27 18:46:37 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\eye_hand_data
+2025-10-27 18:46:37 - __main__ - INFO: 检测到 10 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:46:37 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-27 18:46:37 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg 角点检测成功
+2025-10-27 18:46:37 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-27 18:46:37 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg 角点检测成功
+2025-10-27 18:46:37 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-27 18:46:37 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg 角点检测成功
+2025-10-27 18:46:37 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-27 18:46:38 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg 角点检测成功
+2025-10-27 18:46:38 - __main__ - INFO: 共有 10 张图像用于求解
+2025-10-27 18:46:38 - __main__ - INFO: 相机标定完成，均方重投影误差 0.176401
+2025-10-27 18:46:38 - __main__ - DEBUG: 相机内参:
+[[611.54837496   0.         638.39507514]
+ [  0.         611.70684878 394.14289874]
+ [  0.           0.           1.        ]]
+2025-10-27 18:46:38 - __main__ - DEBUG: 畸变系数:
+[[-0.00361027 -0.21202781  0.00195347 -0.00075473  0.7896488 ]]
+2025-10-27 18:46:38 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 18:46:38 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 40)
+2025-10-27 18:46:38 - __main__ - DEBUG: 第 10 帧末端旋转矩阵行列式 1.000000
+2025-10-27 18:46:38 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 18:46:38 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.68451421  0.36173924 -0.63291786]
+ [-0.17404742  0.92418804  0.33997641]
+ [ 0.70791792 -0.12256096  0.69557963]]
+2025-10-27 18:46:38 - __main__ - INFO: 平移向量是:
+ [[ 0.41110528]
+ [-4.05515239]
+ [ 4.81184857]]
+2025-10-27 18:46:38 - __main__ - INFO: 四元数是：
+ [-0.12722671 -0.3688137  -0.14737484  0.90888419]
+2025-10-27 18:46:49 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:46:49 - __main__ - INFO: 检测到 0 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:46:49 - __main__ - INFO: 共有 0 张图像用于求解
+2025-10-27 18:48:25 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:48:25 - __main__ - INFO: 检测到 11 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:48:25 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\1.png
+2025-10-27 18:48:25 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\1.png 角点检测成功
+2025-10-27 18:48:25 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\2.png
+2025-10-27 18:48:25 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\2.png 角点检测成功
+2025-10-27 18:48:25 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\3.png
+2025-10-27 18:48:25 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\3.png 角点检测成功
+2025-10-27 18:48:25 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\4.png
+2025-10-27 18:48:25 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\4.png 角点检测成功
+2025-10-27 18:48:25 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\5.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\5.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\6.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\6.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\7.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\7.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\8.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\8.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\9.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\9.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\10.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\10.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\11.png
+2025-10-27 18:48:26 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\11.png 角点检测成功
+2025-10-27 18:48:26 - __main__ - INFO: 共有 11 张图像用于求解
+2025-10-27 18:48:26 - __main__ - INFO: 相机标定完成，均方重投影误差 0.147672
+2025-10-27 18:48:26 - __main__ - DEBUG: 相机内参:
+[[614.25918901   0.         638.11386908]
+ [  0.         613.64962701 351.44993293]
+ [  0.           0.           1.        ]]
+2025-10-27 18:48:26 - __main__ - DEBUG: 畸变系数:
+[[-0.02011494  0.01228384  0.00045534  0.00022554  0.00075483]]
+2025-10-27 18:48:26 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 18:48:26 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 44)
+2025-10-27 18:48:26 - __main__ - DEBUG: 第 11 帧末端旋转矩阵行列式 1.000000
+2025-10-27 18:48:26 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 18:48:26 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.95597671  0.27730241  0.09597868]
+ [-0.21891618  0.89176408 -0.39602088]
+ [-0.19540788  0.35757545  0.91321167]]
+2025-10-27 18:48:26 - __main__ - INFO: 平移向量是:
+ [[ 144.09294343]
+ [  60.14714491]
+ [-111.02971098]]
+2025-10-27 18:48:26 - __main__ - INFO: 四元数是：
+ [ 0.19429421  0.07512606 -0.1279364   0.96965876]
+2025-10-27 18:48:55 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:48:55 - compute_in_hand - INFO: 检测到 11 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\1.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\1.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\2.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\2.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\3.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\3.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\4.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\4.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\5.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\5.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\6.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\6.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\7.png
+2025-10-27 18:48:55 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\7.png 角点检测成功
+2025-10-27 18:48:55 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\8.png
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\8.png 角点检测成功
+2025-10-27 18:48:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\9.png
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\9.png 角点检测成功
+2025-10-27 18:48:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\10.png
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\10.png 角点检测成功
+2025-10-27 18:48:56 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\11.png
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\11.png 角点检测成功
+2025-10-27 18:48:56 - compute_in_hand - INFO: 共有 11 张图像用于求解
+2025-10-27 18:48:56 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.147672
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 相机内参:
+[[614.25918901   0.         638.11386908]
+ [  0.         613.64962701 351.44993293]
+ [  0.           0.           1.        ]]
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.02011494  0.01228384  0.00045534  0.00022554  0.00075483]]
+2025-10-27 18:48:56 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 44)
+2025-10-27 18:48:56 - compute_in_hand - DEBUG: 第 11 帧末端旋转矩阵行列式 1.000000
+2025-10-27 18:48:56 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 18:55:18 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:55:18 - __main__ - INFO: 检测到 11 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:55:18 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\1.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\1.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\2.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\2.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\3.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\3.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\4.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\4.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\5.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\5.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\6.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\6.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\7.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\7.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\8.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\8.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\9.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\9.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\10.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\10.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\11.png
+2025-10-27 18:55:19 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\11.png 角点检测成功
+2025-10-27 18:55:19 - __main__ - INFO: 共有 11 张图像用于求解
+2025-10-27 18:55:20 - __main__ - INFO: 相机标定完成，均方重投影误差 0.147672
+2025-10-27 18:55:20 - __main__ - DEBUG: 相机内参:
+[[614.25918901   0.         638.11386908]
+ [  0.         613.64962701 351.44993293]
+ [  0.           0.           1.        ]]
+2025-10-27 18:55:20 - __main__ - DEBUG: 畸变系数:
+[[-0.02011494  0.01228384  0.00045534  0.00022554  0.00075483]]
+2025-10-27 18:55:20 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 18:55:20 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 44)
+2025-10-27 18:55:20 - __main__ - DEBUG: 第 11 帧末端旋转矩阵行列式 1.000000
+2025-10-27 18:55:20 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-27 18:55:20 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99992723  0.01069972  0.00557247]
+ [-0.01079132  0.99980269  0.01667698]
+ [-0.00539293 -0.01673591  0.9998454 ]]
+2025-10-27 18:55:20 - __main__ - INFO: 平移向量是:
+ [[-0.00860675]
+ [-0.0446055 ]
+ [ 0.1252486 ]]
+2025-10-27 18:55:20 - __main__ - INFO: 四元数是：
+ [-0.00835367  0.0027415  -0.00537304  0.99994691]
+2025-10-27 18:55:32 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-27 18:55:32 - compute_in_hand - INFO: 检测到 11 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\1.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\1.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\2.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\2.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\3.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\3.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\4.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\4.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\5.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\5.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\6.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\6.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\7.png
+2025-10-27 18:55:32 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\7.png 角点检测成功
+2025-10-27 18:55:32 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\8.png
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\8.png 角点检测成功
+2025-10-27 18:55:33 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\9.png
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\9.png 角点检测成功
+2025-10-27 18:55:33 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\10.png
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\10.png 角点检测成功
+2025-10-27 18:55:33 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\11.png
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\11.png 角点检测成功
+2025-10-27 18:55:33 - compute_in_hand - INFO: 共有 11 张图像用于求解
+2025-10-27 18:55:33 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.147672
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 相机内参:
+[[614.25918901   0.         638.11386908]
+ [  0.         613.64962701 351.44993293]
+ [  0.           0.           1.        ]]
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.02011494  0.01228384  0.00045534  0.00022554  0.00075483]]
+2025-10-27 18:55:33 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 44)
+2025-10-27 18:55:33 - compute_in_hand - DEBUG: 第 11 帧末端旋转矩阵行列式 1.000000
+2025-10-27 18:55:33 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参

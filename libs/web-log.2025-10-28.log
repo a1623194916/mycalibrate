@@ -1,0 +1,413 @@
+2025-10-28 16:54:52 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:54:52 - __main__ - INFO: 检测到 20 张候选图像，默认按 1.jpg 起连续编号处理
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\1.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\2.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\3.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\4.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\5.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\6.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\7.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\8.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\9.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\10.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\11.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\12.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\13.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\14.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\15.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\16.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\17.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\18.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\19.png 不存在
+2025-10-28 16:54:52 - __main__ - WARNING: 按序号期望的文件 D:\Desktop\fr\hand_eye_calibration\Color\20.png 不存在
+2025-10-28 16:54:52 - __main__ - INFO: 共有 0 张图像用于求解
+2025-10-28 16:55:52 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:55:52 - __main__ - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 16:55:52 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 16:55:52 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 16:55:52 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 16:55:52 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 16:55:52 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 16:55:52 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 16:55:53 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 16:55:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 16:55:54 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 16:55:54 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 16:55:54 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 16:55:54 - __main__ - INFO: 共有 20 张图像用于求解
+2025-10-28 16:55:54 - __main__ - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 16:55:54 - __main__ - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 16:55:54 - __main__ - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 16:56:14 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:56:14 - __main__ - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 16:56:14 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 16:56:14 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 16:56:14 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 16:56:14 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 16:56:14 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 16:56:14 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 16:56:14 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 16:56:15 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 16:56:15 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 16:56:16 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 16:56:16 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 16:56:16 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 16:56:16 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 16:56:16 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 16:56:16 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 16:56:16 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 16:56:16 - __main__ - INFO: 共有 20 张图像用于求解
+2025-10-28 16:56:16 - __main__ - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 16:56:16 - __main__ - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 16:56:16 - __main__ - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 16:58:00 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:58:00 - __main__ - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 16:58:00 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 16:58:00 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 16:58:01 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 16:58:01 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 16:58:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 16:58:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 16:58:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 16:58:02 - __main__ - INFO: 共有 20 张图像用于求解
+2025-10-28 16:58:02 - __main__ - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 16:58:02 - __main__ - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 16:58:02 - __main__ - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 16:58:02 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-28 16:58:02 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 80)
+2025-10-28 16:58:02 - __main__ - DEBUG: 第 20 帧末端旋转矩阵行列式 1.000000
+2025-10-28 16:58:02 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-28 16:58:02 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.32735753  0.72433749  0.60677199]
+ [-0.5202432   0.67422404 -0.52418408]
+ [-0.78878644 -0.1440734   0.59754398]]
+2025-10-28 16:58:02 - __main__ - INFO: 平移向量是:
+ [[ -7.25016886]
+ [-14.41840291]
+ [  5.77316079]]
+2025-10-28 16:58:02 - __main__ - INFO: 四元数是：
+ [ 0.11788714  0.43281709 -0.385993    0.80609019]
+2025-10-28 16:58:08 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:58:08 - compute_in_hand - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 16:58:08 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 16:58:08 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 16:58:08 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 16:58:09 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 16:58:09 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 16:58:10 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 16:58:10 - compute_in_hand - INFO: 共有 20 张图像用于求解
+2025-10-28 16:58:11 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 16:58:11 - compute_in_hand - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 16:58:11 - compute_in_hand - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 16:58:11 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-28 16:58:11 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 80)
+2025-10-28 16:58:11 - compute_in_hand - DEBUG: 第 20 帧末端旋转矩阵行列式 1.000000
+2025-10-28 16:58:11 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-28 16:59:04 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 16:59:04 - compute_in_hand - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 16:59:04 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 16:59:04 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 16:59:05 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 16:59:05 - compute_in_hand - INFO: 共有 20 张图像用于求解
+2025-10-28 16:59:06 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 16:59:06 - compute_in_hand - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 16:59:06 - compute_in_hand - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 16:59:06 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-28 16:59:06 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 80)
+2025-10-28 16:59:06 - compute_in_hand - DEBUG: 第 20 帧末端旋转矩阵行列式 1.000000
+2025-10-28 16:59:06 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-28 17:01:22 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 17:01:22 - compute_in_hand - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 17:01:22 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 17:01:22 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 17:01:23 - compute_in_hand - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 17:01:23 - compute_in_hand - INFO: 共有 20 张图像用于求解
+2025-10-28 17:01:24 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 17:01:24 - compute_in_hand - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 17:01:24 - compute_in_hand - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 17:01:24 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-28 17:01:24 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 80)
+2025-10-28 17:01:24 - compute_in_hand - DEBUG: 第 20 帧末端旋转矩阵行列式 1.000000
+2025-10-28 17:01:24 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-28 17:02:02 - __main__ - INFO: 开始手眼标定流程，数据目录: D:\Desktop\fr\hand_eye_calibration\Color
+2025-10-28 17:02:02 - __main__ - INFO: 检测到 20 张候选图像，默认按 000.png 起连续编号处理
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\000.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\000.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\001.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\001.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\002.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\002.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\003.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\003.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\004.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\004.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\005.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\005.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\006.png
+2025-10-28 17:02:02 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\006.png 角点检测成功
+2025-10-28 17:02:02 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\007.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\007.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\008.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\008.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\009.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\009.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\010.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\010.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\011.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\011.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\012.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\012.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\013.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\013.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\014.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\014.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\015.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\015.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\016.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\016.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\017.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\017.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\018.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\018.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\Color\019.png
+2025-10-28 17:02:03 - __main__ - DEBUG: 图像 D:\Desktop\fr\hand_eye_calibration\Color\019.png 角点检测成功
+2025-10-28 17:02:03 - __main__ - INFO: 共有 20 张图像用于求解
+2025-10-28 17:02:04 - __main__ - INFO: 相机标定完成，均方重投影误差 0.587345
+2025-10-28 17:02:04 - __main__ - DEBUG: 相机内参:
+[[645.78182187   0.         648.72761705]
+ [  0.         644.91671643 357.71552949]
+ [  0.           0.           1.        ]]
+2025-10-28 17:02:04 - __main__ - DEBUG: 畸变系数:
+[[ 0.01961269 -0.12056848  0.00169211  0.00405153  0.16089924]]
+2025-10-28 17:02:04 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2025-10-28 17:02:04 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 80)
+2025-10-28 17:02:04 - __main__ - DEBUG: 第 20 帧末端旋转矩阵行列式 1.000000
+2025-10-28 17:02:04 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2025-10-28 17:02:04 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.99950542  0.02854486  0.01319488]
+ [-0.02874254  0.99947366  0.01504259]
+ [-0.01275854 -0.0154144   0.99979979]]
+2025-10-28 17:02:04 - __main__ - INFO: 平移向量是:
+ [[-0.00243728]
+ [-0.04885258]
+ [ 0.11827134]]
+2025-10-28 17:02:04 - __main__ - INFO: 四元数是：
+ [-0.00761541  0.00648934 -0.01432404  0.99984735]

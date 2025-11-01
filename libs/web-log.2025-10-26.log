@@ -1,0 +1,30 @@
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-26 12:28:53 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-26 12:28:54 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-26 12:28:54 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-26 12:28:54 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-26 12:28:54 - __main__ - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
+2025-10-26 12:28:54 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.98038952 -0.04193661  0.19255576]
+ [-0.04831743  0.89612097  0.44117188]
+ [-0.19105451 -0.44182409  0.87652133]]
+2025-10-26 12:28:54 - __main__ - INFO: 平移向量是:
+ [[139.45362984]
+ [ 49.74541073]
+ [  7.8657312 ]]
+2025-10-26 12:28:54 - __main__ - INFO: 四元数是：
+ [-0.22789647  0.09900773 -0.00164685  0.96863716]
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\1.jpg
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\2.jpg
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\3.jpg
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\4.jpg
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\5.jpg
+2025-10-26 12:33:40 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\6.jpg
+2025-10-26 12:33:41 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\7.jpg
+2025-10-26 12:33:41 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\8.jpg
+2025-10-26 12:33:41 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\9.jpg
+2025-10-26 12:33:41 - compute_in_hand - INFO: 读 D:\Desktop\fr\hand_eye_calibration\eye_hand_data\10.jpg
