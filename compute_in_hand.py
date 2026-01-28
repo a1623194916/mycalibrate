@@ -25,15 +25,15 @@ logger_ = logging.getLogger(__name__)
 logger_ = CommonLog(logger_)
 
 
-# 数据根目录：默认查找当前脚本下的 eye_hand_data D:\Desktop\fr\hand_eye_calibration\Color
-current_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),"sorted_out")
+# 数据根目录：默认查找当前脚本下的
+current_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),"calib_images")
 
 # 兼容未分批保存的数据：若找不到 dataYYYYMMDD 文件夹，则直接使用根目录
 latest_folder = find_latest_data_folder(current_path)
 images_path = os.path.join(current_path, latest_folder) if latest_folder else current_path  # 若没有分批文件夹则退回根目录
 
 # 在采集标定板图片时保存的机械臂末端位姿，每一行需与对应的图像文件匹配
-file_path = os.path.join(images_path,"robot_poses.txt")  # 对应图片序列的末端位姿记录
+file_path = os.path.join(images_path,"robottrue.txt")  # 对应图片序列的末端位姿记录
 
 
 with open("config.yaml", 'r', encoding='utf-8') as file:
@@ -44,7 +44,7 @@ YY = data.get("checkerboard_args").get("YY")  # 棋盘在 Y 方向的角点数�
 L = data.get("checkerboard_args").get("L")    # 棋盘单格尺寸（米）
 
 
-def func():
+def func(visual: bool = False):
     """运行手眼标定流程，返回相机到机械臂末端的旋转矩阵和平移向量。"""
 
     path = os.path.dirname(__file__)
@@ -91,10 +91,19 @@ def func():
                 else:
                     img_points.append(corners)
                 logger_.debug(f"图像 {image_file} 角点检测成功")
+                if visual:
+                    vis_img = img.copy()
+                    cv2.drawChessboardCorners(vis_img, (XX, YY), corners2 if [corners2] else corners, ret)
+                    cv2.imshow("chessboard_corners", vis_img)
+                    cv2.waitKey(50)
             else:
                 logger_.warning(f"图像 {image_file} 未找到棋盘角点")
         else:
             logger_.warning(f"按序号期望的文件 {image_file} 不存在")
+
+    if visual:
+        cv2.waitKey(200)
+        cv2.destroyAllWindows()
 
     N = len(img_points)
     logger_.info(f"共有 {N} 张图像用于求解")
@@ -140,7 +149,7 @@ def func():
 if __name__ == '__main__':
 
     # 旋转矩阵，外参
-    rotation_matrix, translation_vector = func()
+    rotation_matrix, translation_vector = func(visual=True)
 
     # 将旋转矩阵转换为四元数
     rotation = R.from_matrix(rotation_matrix)

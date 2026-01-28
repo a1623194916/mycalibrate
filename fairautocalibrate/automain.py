@@ -1,9 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+自动手眼标定 - 使用 CuRobo 规划轨迹
+"""
 
 import math
 import os
 import time
+import sys
+import numpy as np
+
+# 添加 curobo/frplan 路径（使用其中的 fairmove.py 和 real_robot_plan.py）
+sys.path.insert(0, "/home/u22/kyz/curobo/frplan")
 
 
 def mrad_to_mmdeg(pose_mrad):
@@ -16,6 +24,19 @@ def mrad_to_mmdeg(pose_mrad):
 		rx_r * 180.0 / math.pi,
 		ry_r * 180.0 / math.pi,
 		rz_r * 180.0 / math.pi,
+	]
+
+
+def mmdeg_to_mrad(pose_mmdeg):
+	"""[x,y,z,rx,ry,rz] from millimeters+degrees -> meters+radians."""
+	x_mm, y_mm, z_mm, rx_d, ry_d, rz_d = pose_mmdeg
+	return [
+		x_mm / 1000.0,
+		y_mm / 1000.0,
+		z_mm / 1000.0,
+		rx_d * math.pi / 180.0,
+		ry_d * math.pi / 180.0,
+		rz_d * math.pi / 180.0,
 	]
 
 
@@ -90,14 +111,14 @@ def build_camera_socket(context, mode, addr, port):
 
 def main():
 	# ====== 直接在这里改配置（无需传参） ======
-	POSES_FILE = os.getenv("POSES_FILE", "robot_poses.txt")
+	POSES_FILE = os.getenv("POSES_FILE", "robot_poses_filtered.txt")  # 使用过滤后的位姿文件
 	SAVE_DIR = os.getenv("SAVE_DIR", "calib_images")
 	START_INDEX = int(os.getenv("START_INDEX", "0"))
 	MAX_POINTS = int(os.getenv("MAX_POINTS", "0"))  # 0 表示全部
-	SLEEP_AFTER_MOVE = float(os.getenv("SLEEP_AFTER_MOVE", "0.2")) # 秒
+	SLEEP_AFTER_MOVE = float(os.getenv("SLEEP_AFTER_MOVE", "0.5"))  # 秒，等待稳定
 
 	REACH_CHECK = os.getenv("REACH_CHECK", "1") != "0"  # 1/0
-	REACH_TIMEOUT_S = float(os.getenv("REACH_TIMEOUT", "8.0"))
+	REACH_TIMEOUT_S = float(os.getenv("REACH_TIMEOUT", "15.0"))  # CuRobo 轨迹较长
 	POS_TOL_MM = float(os.getenv("POS_TOL_MM", "2.0"))
 	ANG_TOL_DEG = float(os.getenv("ANG_TOL_DEG", "2.0"))
 
@@ -105,6 +126,10 @@ def main():
 	CAM_ADDR = os.getenv("CAM_ADDR", "*")  # bind 用 *，connect 用对端 IP
 	CAM_PORT = os.getenv("CAM_PORT", "5555")
 	CAM_CMD = os.getenv("CAM_CMD", "GET_RGB")
+	
+	# CuRobo 轨迹执行参数
+	TRAJ_VEL = float(os.getenv("TRAJ_VEL", "30.0"))  # 速度百分比
+	TRAJ_BLEND = float(os.getenv("TRAJ_BLEND", "100"))  # 平滑时间 ms
 	# ========================================
 
 	poses_path = os.path.abspath(POSES_FILE)
@@ -145,7 +170,7 @@ def main():
 	context = zmq.Context()
 	cam_socket = build_camera_socket(context, CAM_MODE, CAM_ADDR, CAM_PORT)
 
-	# 机械臂（延迟 import，避免 Robot.so 不匹配时看不到清晰提示）
+	# 机械臂（从 curobo/frplan 导入，包含 followcurobo 方法）
 	try:
 		from fairmove import RobotController
 	except Exception as e:
@@ -153,30 +178,73 @@ def main():
 		print("[提示] 这通常是 Robot.so 与当前 Python 版本 ABI 不匹配；请用与 Robot.so 编译一致的 python 运行。")
 		return 3
 
+	# 初始化 CuRobo 规划器
+	try:
+		from real_robot_plan import initialize_curobo
+		print("\n[CuRobo] 初始化运动规划器...")
+		planner = initialize_curobo()
+		print("[CuRobo] 规划器初始化完成\n")
+	except Exception as e:
+		print(f"[标定] 导入/初始化 CuRobo 失败: {e}")
+		import traceback
+		traceback.print_exc()
+		return 5
+
 	robot = RobotController()
 	if not robot.connect():
 		print("[标定] 机械臂连接失败")
 		return 4
 
+	# 临时轨迹文件路径
+	traj_file = os.path.join(os.path.dirname(__file__), "calib_traj.txt")
+	
+	# 实际位姿记录文件（米+弧度）
+	robottrue_file = os.path.join(save_dir, "robottrue.txt")
+	# 清空或创建文件
+	with open(robottrue_file, 'w') as f:
+		f.write("# 实际TCP位姿 (米+弧度): x y z rx ry rz\n")
+	print(f"[标定] 位姿记录: {robottrue_file}")
+
 	try:
-		img_index = START_INDEX
+		img_index = 0
 		for i, pose_mrad in enumerate(poses_mrad):
 			target_mmdeg = mrad_to_mmdeg(pose_mrad)
-			print(f"\n[标定] 点 {i}/{len(poses_mrad)-1} -> mm/deg: {target_mmdeg}")
+			print(f"\n{'='*60}")
+			print(f"[标定] 点 {i}/{len(poses_mrad)-1}")
+			print(f"  目标位姿 (mm/deg): {[f'{v:.2f}' for v in target_mmdeg]}")
+			print(f"{'='*60}")
 
-			joints = robot.GetInverseKin(type=0, desc_pos=target_mmdeg, config=-1)
-			if joints is None:
-				print("[标定] 逆解失败，跳过该点")
+			# 获取当前关节角度作为规划起点
+			current_q = robot.GetActualJointPos(flag=1)  # 弧度
+			if current_q is None:
+				print("[标定] 获取当前关节角度失败，跳过该点")
 				continue
 
-			ret = robot.MoveJ(joints, tool=1, user=0, vel=20.0, acc=0.0, ovl=100.0, blendT=-1.0)
-			if ret not in (0, None):
-				print(f"[标定] MoveJ 返回错误码: {ret}，跳过拍照")
+			# 使用 CuRobo 规划轨迹（输入 TCP 位姿，米+弧度）
+			print(f"[CuRobo] 规划中...")
+			success, traj_deg, solve_time, traj_path = planner.plan(
+				current_q,          # 起始关节角度（弧度）
+				pose_mrad,          # 目标 TCP 位姿（米+弧度）
+				save_trajectory=True,
+				visualize=False,
+				traj_filename=traj_file
+			)
+
+			if not success:
+				print(f"[标定] CuRobo 规划失败，跳过该点")
 				continue
 
+			print(f"[CuRobo] 规划成功，轨迹点数: {len(traj_deg)}，耗时: {solve_time:.3f}s")
+
+			# 执行轨迹
+			print(f"[轨迹] 执行中...")
+			robot.followcurobo(traj_path, vel=TRAJ_VEL, blendT=TRAJ_BLEND)
+
+			# 等待稳定
 			if SLEEP_AFTER_MOVE > 0:
 				time.sleep(SLEEP_AFTER_MOVE)
 
+			# 检查是否到位
 			if REACH_CHECK:
 				ok = wait_until_reach(
 					robot,
@@ -187,9 +255,13 @@ def main():
 				)
 				if not ok:
 					actual = robot.get_current_pose()
-					print(f"[标定] 未在超时内到位，实际位姿: {actual}，跳过拍照")
+					print(f"[标定] 未在超时内到位")
+					print(f"  目标: {[f'{v:.2f}' for v in target_mmdeg]}")
+					print(f"  实际: {[f'{v:.2f}' for v in actual] if actual else 'None'}")
+					print(f"[标定] 跳过拍照")
 					continue
 
+			# 拍照
 			print(f"[相机] 请求拍照: {CAM_CMD}")
 			t0 = time.time()
 			cam_socket.send_string(CAM_CMD)
@@ -200,16 +272,36 @@ def main():
 				print("[标定] 拍照失败（无有效图像）")
 				continue
 
-			out_path = os.path.join(save_dir, f"{img_index}.png")
+			# 记录当前实际TCP位姿（米+弧度）
+			actual_pose_mmdeg = robot.get_current_pose()
+			if actual_pose_mmdeg is not None:
+				actual_pose_mrad = mmdeg_to_mrad(actual_pose_mmdeg)
+				with open(robottrue_file, 'a') as f:
+					f.write(' '.join([str(v) for v in actual_pose_mrad]) + '\n')
+				print(f"[标定] 已记录实际位姿: [{actual_pose_mrad[0]:.4f}, {actual_pose_mrad[1]:.4f}, {actual_pose_mrad[2]:.4f}] m")
+			else:
+				print("[标定] 警告: 无法获取当前位姿")
+
+			out_path = os.path.join(save_dir, f"{img_index:03d}.png")
 			import cv2
 			ok = cv2.imwrite(out_path, img)
 			if not ok:
 				print(f"[标定] 保存失败: {out_path}")
 				continue
-			print(f"[标定] 已保存: {out_path} (shape={img.shape}, {cost_ms:.1f}ms)")
+			print(f"[标定] ✓ 已保存: {out_path} (shape={img.shape}, {cost_ms:.1f}ms)")
 			img_index += 1
 
+		print(f"\n{'='*60}")
+		print(f"[标定] 完成！共保存 {img_index} 张图像")
+		print(f"{'='*60}")
+
 	finally:
+		# 清理临时轨迹文件
+		if os.path.exists(traj_file):
+			try:
+				os.remove(traj_file)
+			except Exception:
+				pass
 		try:
 			cam_socket.close(0)
 		except Exception:

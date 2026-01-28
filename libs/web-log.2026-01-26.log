@@ -1,0 +1,770 @@
+2026-01-26 14:07:58 - __main__ - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:07:58 - __main__ - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:07:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:07:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:08:40 - __main__ - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:08:40 - __main__ - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:08:40 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:08:40 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:08:45 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:08:46 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:08:46 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:08:46 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:08:46 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:08:46 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:08:46 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:08:47 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:08:47 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:08:47 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:08:48 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:08:48 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:08:48 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:08:48 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:08:49 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:08:49 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:08:49 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:08:49 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:08:50 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:08:50 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:08:50 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:08:50 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:08:50 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:08:50 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:08:51 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:08:51 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:08:51 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:08:52 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:08:52 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:08:52 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:08:52 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:08:52 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:08:53 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:08:53 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:08:53 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:08:53 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:08:53 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:08:53 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:08:54 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:08:54 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:08:54 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:08:54 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:08:54 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:08:55 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:08:55 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:08:55 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:08:55 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:08:55 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:08:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:08:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:08:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:08:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:08:57 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:08:57 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:08:57 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:08:57 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:08:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:08:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:08:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:08:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:08:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:08:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:08:59 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:08:59 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:08:59 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:08:59 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:09:00 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:09:00 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:09:00 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:09:00 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:09:00 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:09:00 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:09:01 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:09:01 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:09:01 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:09:01 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:09:02 - __main__ - INFO: 共有 39 张图像用于求解
+2026-01-26 14:09:02 - __main__ - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:09:02 - __main__ - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:09:02 - __main__ - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:09:02 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:09:02 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:09:02 - __main__ - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:09:02 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:09:02 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.98108533 -0.19353332  0.00405374]
+ [ 0.19341089  0.98089886  0.02072788]
+ [-0.00798784 -0.01955178  0.99977694]]
+2026-01-26 14:09:02 - __main__ - INFO: 平移向量是:
+ [[-0.00703272]
+ [-0.07832151]
+ [-0.23121523]]
+2026-01-26 14:09:02 - __main__ - INFO: 四元数是：
+ [-0.0101184   0.00302489  0.09720178  0.99520866]
+2026-01-26 14:13:55 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:13:55 - compute_in_hand - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:13:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:13:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:13:56 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:13:56 - compute_in_hand - INFO: 共有 39 张图像用于求解
+2026-01-26 14:13:57 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:13:57 - compute_in_hand - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:13:57 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:13:57 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:13:57 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:13:57 - compute_in_hand - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:13:57 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:16:07 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:16:07 - compute_in_hand - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:16:07 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:16:07 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:16:07 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:16:07 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:16:07 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:16:08 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:16:08 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:16:09 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:16:09 - compute_in_hand - INFO: 共有 39 张图像用于求解
+2026-01-26 14:16:10 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:16:10 - compute_in_hand - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:16:10 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:16:10 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:16:10 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:16:10 - compute_in_hand - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:16:10 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:16:53 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:16:53 - compute_in_hand - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:16:53 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:16:53 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:16:53 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:16:53 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:16:53 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:16:54 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:16:54 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:16:55 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:16:55 - compute_in_hand - INFO: 共有 39 张图像用于求解
+2026-01-26 14:16:56 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:16:56 - compute_in_hand - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:16:56 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:16:56 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:16:56 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:16:56 - compute_in_hand - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:16:56 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:19:14 - __main__ - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:19:14 - __main__ - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:19:14 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:19:14 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:19:19 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:19:19 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:19:20 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:19:20 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:19:20 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:19:21 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:19:21 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:19:21 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:19:22 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:19:22 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:19:23 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:19:23 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:19:24 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:19:24 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:19:24 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:19:24 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:19:24 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:19:24 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:19:25 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:19:25 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:19:25 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:19:25 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:19:26 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:19:26 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:19:26 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:19:26 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:19:26 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:19:26 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:19:27 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:19:27 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:19:27 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:19:27 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:19:27 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:19:28 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:19:28 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:19:28 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:19:28 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:19:28 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:19:29 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:19:29 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:19:29 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:19:29 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:19:30 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:19:30 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:19:30 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:19:30 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:19:31 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:19:31 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:19:32 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:19:32 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:19:32 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:19:32 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:19:32 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:19:33 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:19:33 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:19:33 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:19:33 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:19:33 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:19:34 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:19:34 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:19:34 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:19:34 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:19:35 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:19:35 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:19:35 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:19:35 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:19:35 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:19:35 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:19:36 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:19:36 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:19:36 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:19:36 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:19:37 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:19:37 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:19:37 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:19:37 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:19:38 - __main__ - INFO: 共有 39 张图像用于求解
+2026-01-26 14:19:38 - __main__ - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:19:38 - __main__ - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:19:38 - __main__ - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:19:38 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:19:38 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:19:38 - __main__ - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:19:38 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:19:38 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.98108533 -0.19353332  0.00405374]
+ [ 0.19341089  0.98089886  0.02072788]
+ [-0.00798784 -0.01955178  0.99977694]]
+2026-01-26 14:19:38 - __main__ - INFO: 平移向量是:
+ [[-0.00703272]
+ [-0.07832151]
+ [-0.23121523]]
+2026-01-26 14:19:38 - __main__ - INFO: 四元数是：
+ [-0.0101184   0.00302489  0.09720178  0.99520866]
+2026-01-26 14:20:51 - __main__ - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:20:51 - __main__ - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:20:51 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:20:51 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:20:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:20:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:20:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:20:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:20:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:20:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:20:56 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:20:56 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:20:57 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:20:57 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:20:57 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:20:57 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:20:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:20:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:20:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:20:58 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:20:58 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:20:59 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:20:59 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:20:59 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:20:59 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:20:59 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:21:00 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:21:00 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:21:00 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:21:00 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:21:01 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:21:01 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:21:01 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:21:01 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:21:02 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:21:02 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:21:02 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:21:02 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:21:02 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:21:03 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:21:03 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:21:03 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:21:03 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:21:03 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:21:04 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:21:04 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:21:04 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:21:04 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:21:04 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:21:05 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:21:05 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:21:05 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:21:05 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:21:05 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:21:06 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:21:06 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:21:06 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:21:06 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:21:07 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:21:07 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:21:07 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:21:07 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:21:07 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:21:07 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:21:08 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:21:08 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:21:08 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:21:08 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:21:09 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:21:09 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:21:09 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:21:09 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:21:10 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:21:10 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:21:10 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:21:10 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:21:10 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:21:11 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:21:11 - __main__ - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:21:11 - __main__ - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:21:11 - __main__ - INFO: 共有 39 张图像用于求解
+2026-01-26 14:21:12 - __main__ - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:21:12 - __main__ - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:21:12 - __main__ - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:21:12 - __main__ - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:21:12 - __main__ - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:21:12 - __main__ - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:21:12 - __main__ - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:21:12 - __main__ - INFO: 旋转矩阵是:
+ [[ 0.98108533 -0.19353332  0.00405374]
+ [ 0.19341089  0.98089886  0.02072788]
+ [-0.00798784 -0.01955178  0.99977694]]
+2026-01-26 14:21:12 - __main__ - INFO: 平移向量是:
+ [[-0.00703272]
+ [-0.07832151]
+ [-0.23121523]]
+2026-01-26 14:21:12 - __main__ - INFO: 四元数是：
+ [-0.0101184   0.00302489  0.09720178  0.99520866]
+2026-01-26 14:22:42 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:22:42 - compute_in_hand - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:22:42 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:22:42 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:22:43 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:22:43 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:22:44 - compute_in_hand - INFO: 共有 39 张图像用于求解
+2026-01-26 14:22:44 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:22:44 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:22:44 - compute_in_hand - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:22:44 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参
+2026-01-26 14:29:57 - compute_in_hand - INFO: 开始手眼标定流程，数据目录: /home/u22/kyz/mycalibrate/calib_images
+2026-01-26 14:29:57 - compute_in_hand - INFO: 检测到 39 张候选图像，默认按 000.png 起连续编号处理
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/000.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/000.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/001.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/001.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/002.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/002.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/003.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/003.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/004.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/004.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/005.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/005.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/006.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/006.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/007.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/007.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/008.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/008.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/009.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/009.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/010.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/010.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/011.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/011.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/012.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/012.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/013.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/013.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/014.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/014.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/015.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/015.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/016.png
+2026-01-26 14:29:57 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/016.png 角点检测成功
+2026-01-26 14:29:57 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/017.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/017.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/018.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/018.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/019.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/019.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/020.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/020.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/021.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/021.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/022.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/022.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/023.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/023.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/024.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/024.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/025.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/025.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/026.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/026.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/027.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/027.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/028.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/028.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/029.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/029.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/030.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/030.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/031.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/031.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/032.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/032.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/033.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/033.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/034.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/034.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/035.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/035.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/036.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/036.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/037.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/037.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 读 /home/u22/kyz/mycalibrate/calib_images/038.png
+2026-01-26 14:29:58 - compute_in_hand - DEBUG: 图像 /home/u22/kyz/mycalibrate/calib_images/038.png 角点检测成功
+2026-01-26 14:29:58 - compute_in_hand - INFO: 共有 39 张图像用于求解
+2026-01-26 14:29:59 - compute_in_hand - INFO: 相机标定完成，均方重投影误差 0.278537
+2026-01-26 14:29:59 - compute_in_hand - DEBUG: 相机内参:
+[[601.85552584   0.         641.45224297]
+ [  0.         601.10594863 401.85953898]
+ [  0.           0.           1.        ]]
+2026-01-26 14:29:59 - compute_in_hand - DEBUG: 畸变系数:
+[[-0.04571622  0.04683702  0.00647845  0.00098496 -0.04071284]]
+2026-01-26 14:29:59 - compute_in_hand - INFO: 已根据 poses.txt 生成 RobotToolPose.csv
+2026-01-26 14:29:59 - compute_in_hand - DEBUG: RobotToolPose.csv 形状 (4, 156)
+2026-01-26 14:29:59 - compute_in_hand - DEBUG: 第 39 帧末端旋转矩阵行列式 1.000000
+2026-01-26 14:29:59 - compute_in_hand - INFO: 手眼标定完成，获得末端->相机外参

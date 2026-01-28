@@ -1,6 +1,4 @@
-# 法奥手眼标定
-compute in hand.py | save_poses.py
-单位：米（m） 弧度
+
 
 
 ## 概述
